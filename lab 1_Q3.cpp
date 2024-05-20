@@ -38,8 +38,8 @@ public:
 int main()
 {
     Person p1;
-    p1.setname("shakil");
-    p1.setage(8);
+    p1.setname("PRANTO");
+    p1.setage(21);
     cout<<"Name:"<<p1.getname()<<endl;
     cout<<"Age:"<<p1.getage();
 }
